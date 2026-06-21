@@ -3,3 +3,6 @@ Official implementation of "F&S-Net: A Dual Mission (Fusion and Super-Resolution
 
 ## :fire: News
 * **[2026.2.16]** Our paper [F&S-Net: A Dual Mission (Fusion and Super-Resolution) Framework under Various Input Resolution]() has been accepted at the IEEE Transactions on Multimedia.
+## Method
+
+  <img src=framework.png>
